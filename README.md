@@ -10,7 +10,7 @@ The Circle Chat Room is a real-time group chat application developed using Node.
 - User-friendly interface: Enjoy a seamless and intuitive chat experience.
 
 ###Screenshot
+![image](https://github.com/arshan19/The-Circle-Chat-Room/assets/96035329/404f9cea-3975-42dc-8e97-bce332c669fa)
+![image](https://github.com/arshan19/The-Circle-Chat-Room/assets/96035329/be4c0453-e07d-48ef-aa87-cee54c5428ee)
 
-![image](https://github.com/arshan19/The-Circle-Chat-Room/assets/96035329/af8b623d-653f-41e2-a67f-65b52aeb60a7)
-![image](https://github.com/arshan19/The-Circle-Chat-Room/assets/96035329/84f73baa-b7f3-4f3f-a5df-1ea6505ce2b6)
 
